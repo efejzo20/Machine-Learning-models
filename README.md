@@ -8,3 +8,4 @@ Trainig and testing differentt machine learning models like:
 - Decision Tree
 - K-Means
 - SVM
+- PCA
