@@ -1,4 +1,4 @@
-# Machine-Learning-models
+# Machine Learning models
 
 Trainig and testing differentt machine learning models:
 
