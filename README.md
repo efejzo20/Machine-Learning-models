@@ -1,6 +1,6 @@
 # Machine-Learning-models
 
-Trainig and testing differentt machine learning models like:
+Trainig and testing differentt machine learning models:
 
 - Linear Regression
 - Logistic Regression
